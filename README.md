@@ -1,9 +1,15 @@
 Hi I am Vara. I have writeen a shell script to analyse server performance stats.
 Mainly it displays CPU usage, total memory usage, total disk usage of a server.
-Download the script (server-stats.sh) to your local server by pull resquest and use the script.
 
-Usage: 
-chmod a+x server-stats.sh
+**1. Clone the repository **
+
+git clone https://github.com/Melipaka-Vara/Vara.git
+
+**2. Make the script executable **
+chmod +x server-stats.sh
+
+**3. Execute the Script**
+
 ./server-stats.sh
 
 Project URL: https://roadmap.sh/projects/server-stats
